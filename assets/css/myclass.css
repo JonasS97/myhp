@@ -1,0 +1,11 @@
+.swiper-slide {
+    display: flex;              /* Flexbox aktivieren */
+    justify-content: center;     /* Horizontale Zentrierung */
+    align-items: center;         /* Vertikale Zentrierung */
+}
+
+.swiper-slide img {
+    max-width: 100%;             /* Bild an die Breite der Folie anpassen */
+    max-height: 100%;            /* Bild an die Höhe der Folie anpassen */
+    object-fit: contain;         /* Verhindert Verzerrung des Bildes */
+}
