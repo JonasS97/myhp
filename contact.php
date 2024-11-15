@@ -28,6 +28,7 @@
 
 <!-- Abschnitt für die Kontaktinformationen -->
 <section id="contact" class="contact section">
+<a href="secret.php" class="logo d-flex align-items-center me-auto me-xl-0">
     <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="info-wrap" data-aos="fade-up" data-aos-delay="200">
             <!-- Row für die Informationen -->
