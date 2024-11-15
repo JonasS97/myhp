@@ -33,17 +33,19 @@
         <div class="info-wrap" data-aos="fade-up" data-aos-delay="200">
             <!-- Row für die Informationen -->
             <div class="row gy-5">
-
                 <!-- Erste Spalte: Standortinformationen -->
                 <div class="col-lg-4"> 
                     <div class="info-item d-flex align-items-center">
                         <i class="bi bi-geo-alt flex-shrink-0"></i> <!-- Bootstrap Icon für den Standort -->
+                        <a href="secret.php" class="logo d-flex align-items-center me-auto me-xl-0">
+</a>
                         <div>
                             <h3>Standort</h3> <!-- Überschrift für den Standort -->
                             <p>Lüdenscheid 58507</p> <!-- Adresse -->
                         </div>
                     </div>
                 </div>
+
 
                 <!-- Zweite Spalte: Telefonnummer -->
                 <div class="col-lg-4">
