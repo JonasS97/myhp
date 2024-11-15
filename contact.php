@@ -9,7 +9,7 @@
                 <div class="col-lg-8">
                     <h1>Kontakt</h1> <!-- Überschrift, die den Titel der Seite zeigt -->
                     <p class="mb-0">Bei Fragen oder Anregungen können Sie mich gerne kontaktieren,<br>
-                    ich stehe Ihnen gerne zur Veerfügung und werde mich zeitnah zurückmelden.</p> <!-- Ein Absatz mit einer kurzen Nachricht, der den Zweck der Kontaktseite erklärt -->
+                    ich stehe Ihnen gerne zur Verfügung und werde mich zeitnah zurückmelden.</p> <!-- Ein Absatz mit einer kurzen Nachricht, der den Zweck der Kontaktseite erklärt -->
                 </div>
             </div>
         </div>
