@@ -1,6 +1,6 @@
 <?php require_once('.\assets\layout\header.php');?>
 
-    <!-- Hero Section -->
+    
     <section id="hero" class="hero section">
 
       <div class="container">
@@ -14,9 +14,9 @@
         </div>
       </div>
 
-    </section><!-- /Hero Section -->
+    </section>
 
-    <!-- Gallery Section -->
+    
     <section id="gallery" class="gallery section">
 
       <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
