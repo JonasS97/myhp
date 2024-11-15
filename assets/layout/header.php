@@ -45,21 +45,14 @@
         <ul>
           <li><a href="index.php" class="active">Startseite<br></a></li>
           <li><a href="about.php">Über mich</a></li>
-          <li class="dropdown"><a href="gallery.php"><span>Projekte</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="3D-Druck.php">3D-Druck</a></li>
-              <li><a href="gallery.php">Gallery</a></li>
-          
-        
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <li><a href="login.php">Login</a></li>
                 <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
                 
                 </ul>
               </li>
             </ul>
           </li>
-          <li><a href="services.php">Angebote</a></li>
           <li><a href="contact.php">Kontakt</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
