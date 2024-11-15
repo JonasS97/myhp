@@ -49,7 +49,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Alter:</strong> <span>27</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>/</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Postfach:</strong> <span>/</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>E-Mail:</strong> <span>Jomsch97@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freiberuflich:</strong> <span>Verfügbar</span></li>
                 </ul>

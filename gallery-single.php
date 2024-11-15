@@ -67,7 +67,7 @@
             </div>
 
             <div class="swiper-slide">
-              <img src="./assets/img/gallery/gallery-12.jpg" alt="">
+              <img src="./assets/img/gallery/gallery-12.jpeg" alt="">
             </div>
 
             <div class="swiper-slide">
@@ -75,7 +75,7 @@
             </div>
 
             <div class="swiper-slide">
-              <img src="./assets/img/gallery/gallery-14.jpg" alt="">
+              <img src="./assets/img/gallery/Urlaub1.jpg" alt="">
             </div>
 
           </div>

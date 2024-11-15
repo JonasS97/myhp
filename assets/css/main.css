@@ -145,8 +145,8 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+  max-height: 86px;
+  margin-right: 12px;
 }
 
 .header .logo h1 {
@@ -1026,7 +1026,7 @@ section,
 # Gallery Details Section
 --------------------------------------------------------------*/
 .gallery-details .portfolio-details-slider img {
-  width: 20%;
+  width: 15%;
 }
 
 .gallery-details .swiper-wrapper {

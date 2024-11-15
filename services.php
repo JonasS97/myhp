@@ -72,8 +72,8 @@
 
       
       <div class="container section-title" data-aos="fade-up">
-        <h2>Pricing</h2>
-        <p>Check my adorable pricing</p>
+        <h2>Preise</h2>
+        <p>Schau dir meine Angebote an</p>
       </div>
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
